@@ -1,5 +1,4 @@
 stremlit
-pandas
-numpy
 scikit-learn
+numpy
 joblib
